@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-tab {
+  margin-right: 30px;
+  border-bottom: 3px solid yellow;
+  width: 70px;
+  text-align: center;
+  color: #7b8794;
+  font-weight: bold;
+  margin-bottom: -2px;
+}
+
+.list-tab-style {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}

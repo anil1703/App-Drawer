@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.appList {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  justify-content: center;
+  height: 130px;
+  width: 120px;
+  padding-top: 30px;
+  margin-right: 10px;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.img-style {
+  height: 70px;
+  width: 70px;
+}
+
+.para {
+  font-size: 15px;
+}
